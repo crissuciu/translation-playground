@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ok">Ok</string>
-    <string name="save">Save</string>
-    <string name="create">Create</string>
+    <string name="ok">OK</string>
+    <string name="save">Tallenna</string>
+    <string name="create">Luo</string>
 </resources>
