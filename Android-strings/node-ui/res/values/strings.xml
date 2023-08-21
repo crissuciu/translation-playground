@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_back">Back</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_continue">Continue</string>
+
+    <string name="action_yes">Yes</string>
+    <string name="action_sign_out">Sign out</string>
+
+    <string name="select_node_set_up_provider_header_title">Great, now let\'s set up your network</string>
+    <string name="select_node_set_up_provider_header_subtitle">Which device do you have?</string>
+    <string name="select_node_set_up_provider_sign_out_action">Sign out</string>
+    <string name="select_node_set_up_provider_help_button_label">Help me choose</string>
+    <string name="select_node_set_up_provider_pod_title">Pods or extenders</string>
+    <string name="select_node_set_up_provider_pod_subtitle">I am setting up a new wireless network with an existing modem.</string>
+    <string name="select_node_set_up_provider_gateway_title">Modem</string>
+    <string name="select_node_set_up_provider_gateway_subtitle">I am setting up a new network with a modem.</string>
+
+    <string name="select_node_type_header_title">Great, now let\'s set up your network</string>
+    <string name="select_node_type_header_subtitle">Choose a pod you have.</string>
+    <string name="select_node_type_no_power_cable_title">My pod has NO power cable</string>
+    <string name="select_node_type_with_power_cable_title">My pod has a power cable attached</string>
+
+    <string name="select_node_setup_option_header_title">Great, now let\'s set up your network</string>
+    <string name="select_node_setup_options_scan_qr_title">Scan a QR Code</string>
+    <string name="select_node_setup_options_enter_serial_title">Enter a serial number</string>
+    <string name="select_node_setup_options_check_existing_modem_title">Check if my existing modem is supported</string>
+    <string name="select_node_setup_options_check_existing_modem_subtitle">Ensure that this device is connected to the WiFi on your supported modem before continuing with the setup.</string>
+    <string name="select_node_setup_options_check_existing_modem_link_title">Supported modems</string>
+    <string name="select_node_setup_option_wifi_connected_action">This device is connected to WiFi</string>
+
+    <string name="configuring_the_node_configuring_in_progress">configuring the pod</string>
+    <string name="configuring_the_node_configuration_applied">pod configuration applied.</string>
+    <string name="advanced_setup_view_description">Once you have connected all the pieces, touch the pod connected to modem with your phone.</string>
+    <string name="advanced_setup_view_title">Advanced setup</string>
+    <string name="advanced_setup_looking_for_pod">looking for pod. Stay close.</string>
+    <string name="advanced_setup_pod_found">Great. We found the pod.</string>
+    <string name="next_action">Next</string>
+    <string name="ignore_action">Ignore</string>
+    <string name="advanced_setup_success_description">Advanced configuration successful</string>
+    <string name="advanced_setup_success_title">Now, let\'s get your WiFi set up.</string>
+    <string name="connect_the_pieces_title_description">There are just a few things needed to bring your new WiFi to life.</string>
+    <string name="connect_the_pieces_title">Great, now let\'s connect the pieces</string>
+    <string name="connect_the_pieces_step_1_power_cable_node_title">Connect modem to the WAN port</string>
+    <string name="connect_the_pieces_step_1_power_cable_node_description">For PoE+ support, connect your modem to the WAN port on your pod.</string>
+    <string name="connect_the_pieces_step_1_title">Connect modem to the left ethernet port on the pod</string>
+    <string name="connect_the_pieces_step_1_description">Use ethernet cable provided</string>
+    <string name="connect_the_pieces_step_2_title">Plug pod into power</string>
+    <string name="connect_the_pieces_step_2_description">Stay close until it boots up</string>
+    <string name="connect_the_pieces_step_3_title">Restart your modem</string>
+    <string name="connect_the_pieces_step_3_description">Remove all devices/cables first</string>
+    <string name="connect_the_pieces_advanced_setup_action">Have an advanced setup?</string>
+    <string name="connect_the_pieces_next_action">Next</string>
+    <string name="connect_the_pieces_back_action">Sign out</string>
+    <string name="advanced_configuration_fixed_ip_pppoe_vlan">Advanced configuration</string>
+    <string name="advanced_configuration_fixed_ip_item_title">Fixed IP</string>
+    <string name="advanced_configuration_pppoe_item_title">PPPoE</string>
+    <string name="advanced_configuration_vlan_item_title">VLAN</string>
+    <string name="advanced_setup_continue_action_view_title">Continue %s setup</string>
+    <string name="advanced_setup_configure_action_view_title">Set up advanced configuration</string>
+    <string name="advanced_setup_action_view_description">Fixed IP, PPPoE, VLAN</string>
+    <string name="advanced_configuration_vlan_toolbar_title">VLAN</string>
+    <string name="advanced_configuration_vlan_item">WAN VLAN</string>
+    <string name="advanced_configuration_vlan_tap_to_set">Tap to set</string>
+    <string name="advanced_configuration_pppoe_toolbar">PPPoE</string>
+    <string name="advanced_configuration_pppoe_login_title">Login</string>
+    <string name="advanced_configuration_pppoe_login_subtitle">Tap to set</string>
+    <string name="advanced_configuration_pppoe_password_title">Password</string>
+    <string name="advanced_configuration_pppoe_password_tap_to_set">Tap to set</string>
+    <string name="advanced_configuration_fixed_ip_ipv4">IPv4</string>
+    <string name="advanced_configuration_fixed_ip_tap_to_set">Tap to set</string>
+    <string name="advanced_configuration_fixed_ip_static_ip">Static IP address</string>
+    <string name="advanced_configuration_fixed_ip_address">IP Address</string>
+    <string name="advanced_configuration_add_new_vlan">Add a new VLAN</string>
+    <string name="advanced_configuration_static_ip_address">Fixed IP address</string>
+    <string name="advanced_configuration_dhcp">DHCP</string>
+    <string name="advanced_configuration_pppoe">PPPoE</string>
+    <string name="advance_configuration_vlan_id_prefix">VLAN %1$d</string>
+    <string name="advanced_configuration_fixed_ip_subnet">Subnet</string>
+    <string name="advanced_configuration_fixed_ip_gateway_tap_to_set">Tap to set</string>
+    <string name="advanced_configuration_fixed_ip_gateway">Gateway</string>
+    <string name="advanced_configuration_fixed_ip_subnet_set">Tap to set</string>
+    <string name="advanced_configuration_fixed_ip_get_automatically">Get automatically from ISP</string>
+    <string name="advanced_configuration_fixed_ip_enter_manually">Enter manually</string>
+    <string name="advanced_configuration_fixed_ip_toolbar">Fixed IP</string>
+    <string name="advanced_configuration_fixed_ip_primary_dns">Primary DNS</string>
+    <string name="advanced_configuration_fixed_ip_primary_dns_tap_to_set">Tap to set</string>
+    <string name="advanced_configuration_fixed_ip_secondary_dns">Secondary DNS (optional)</string>
+    <string name="advanced_configuration_fixed_ip_secondary_dns_tap_to_set">Tap to set</string>
+
+    <string name="connect_pieces_header_title">Great, now let\'s\nset up your network</string>
+    <string name="connect_pieces_header_description">Finish up these few steps to bring your new WiFi to life.</string>
+    <string name="connect_pieces_step_first_title">Connect pod to modem</string>
+    <string name="connect_pieces_step_first_description">Use ethernet cable</string>
+    <string name="connect_pieces_step_second_title">Plug pod into power</string>
+    <string name="connect_pieces_step_second_description">Stay close until it boots up</string>
+    <string name="connect_pieces_step_third_title">Restart your modem</string>
+    <string name="connect_pieces_step_third_description">And then tap next</string>
+    <string name="connect_pieces_other_setup_options_action">Other setup options…</string>
+    <string name="connect_pieces_next_action">Next</string>
+    <string name="connect_pieces_back_action">Back</string>
+    <string name="connect_pieces_sign_out_action">Sign out</string>
+
+    <string name="other_setup_options_action_supported_modems_label">For supported modems</string>
+    <string name="other_setup_options_action_scan_qr_label">Scan a QR code</string>
+    <string name="other_setup_options_action_enter_serial_label">Enter ID number</string>
+    <string name="other_setup_options_action_enter_serial_sub_label">Serial number or MAC address</string>
+    <string name="other_setup_options_action_advance_configuration_label">Advanced configuration</string>
+    <string name="other_setup_options_action_advance_configuration_sub_label">Fixed IP, PPPoE, VLAN</string>
+    <string name="other_setup_options_action_supported_modems_list_label">Which modems are supported?</string>
+
+    <string name="connect_the_pieces_step_1_description_learn_more">Use supplied ethernet cable to connect the pod to your modem.</string>
+    <string name="connect_the_pieces_step_2_description_learn_more">Stay close until it boots up. Your phone will find it using Bluetooth.</string>
+    <string name="connect_the_pieces_step_3_description_learn_more">This will ensure your pod receives the proper IP address.</string>
+    <string name="connect_the_pieces_learn_more_next_action">Advanced Setup</string>
+    <string name="connect_the_pieces_learn_more_back_action">Back</string>
+
+    <string name="ble_pairing_loading_dialog_title">Pairing. This could take up to 2 mins.</string>
+    <string name="advanced_configuration_dialog_title">Bluetooth pairing successful</string>
+    <string name="advanced_configuration_dialog_subtitle">Applying configuration.\nThis could take up to two minutes…</string>
+
+    <string name="advanced_configuration_change_password_dialog_title">Set new password</string>
+    <string name="advanced_configuration_change_password_dialog_positive_button">Change</string>
+    <string name="advanced_configuration_change_password_dialog_cancel_button">Cancel</string>
+    <string name="advanced_configuration_change_email_dialog_title">Set new login</string>
+    <string name="advanced_configuration_change_email_dialog_positive_button">Change</string>
+    <string name="advanced_configuration_change_email_dialog_cancel_button">Cancel</string>
+
+    <string name="advanced_configuration_wan_vlan_dialog_title">Set WAN VLAN</string>
+    <string name="advanced_configuration_wan_vlan_dialog_positive_button">Set</string>
+    <string name="advanced_configuration_wan_vlan_dialog_cancel_button">Cancel</string>
+
+    <string name="still_looking_for_pod_alert_title">Still looking for the pod…</string>
+    <string name="still_looking_for_pod_alert_description">Stay close until the pod has powered up and has a pulsing LED light.\n\nIf the LED light did not come on, please check the power outlet. Try another pod if the power outlet is working.\n\nDoes the problem still persist?</string>
+    <string name="still_looking_for_pod_alert_active_action">Contact support</string>
+
+    <string name="membership_required_title">No membership associated with this pod</string>
+    <string name="membership_required_description">Don\'t have a membership? No problem!\nJust tap below to buy one in a few easy steps.</string>
+    <string name="membership_required_action">Join HomePass</string>
+
+    <string name="claimed_pod_found_title">Claimed pod found</string>
+    <string name="claimed_pod_found_alert_description" translatable="false">You cannot use node with Serial Number %1$s. It is already part of another location.\n\nThe original owner of a claimed pod needs to delete the node in their %2$s app. Once deleted, it can then be added to your location.</string>
+    <string name="claimed_pod_found_description_1" translatable="false">You cannot use pod with Serial Number %s. It is already part of another location.</string>
+    <string name="claimed_pod_found_description_2" translatable="false">The original owner of a claimed node needs to delete the node in their %s App. Once deleted, it can then be added to your location.</string>
+    <string name="claimed_pod_found_action_1">Learn more</string>
+    <string name="claimed_pod_found_action_2">Okay</string>
+
+    <string name="modem_restart_title">Did you restart the modem?</string>
+    <string name="modem_restart_description">Some modems require a reset before they can provide an IP address to the Node. It is required to complete %s setup.</string>
+    <string name="modem_restart_action">Yep, modem restarted</string>
+
+    <string name="detect_gateway_keep_close_alert_title">Waiting for signal</string>
+    <string name="detect_gateway_keep_close_alert_description">Stay close to the pod while we find it …</string>
+    <string name="gateway_online_keep_close_alert_title">WiFi networks</string>
+
+    <string name="pod_restarted_title">We found the pod, but\nit has no internet</string>
+    <string name="pod_restarted_description">Make sure that the network cable between node and modem (or router in some homes) is properly connected.\n\nEnsure that the modem has a working internet connection.</string>
+    <string name="pod_restarted_primary_action">Contact support</string>
+    <string name="pod_restarted_secondary_action">Advanced configuration</string>
+
+    <string name="cellular_backup_title">Cellular Backup</string>
+    <string name="cellular_backup_header_title">Add cellular backup</string>
+    <string name="cellular_backup_header_description">Keep your home WiFi during local network outages.</string>
+    <string name="cellular_backup_action_enable">Enable</string>
+    <string name="cellular_backup_progress_description">Enabling cellular backup</string>
+    <string name="cellular_backup_are_your_sure_dialog_title">Are you sure?</string>
+    <string name="cellular_backup_are_your_sure_dialog_message">Your cellular won\'t work</string>
+    <string name="cellular_backup_are_your_sure_dialog_positive_button">Yes</string>
+    <string name="cellular_backup_are_your_sure_dialog_negative_button">Cancel</string>
+
+    <string name="insert_sim_title">Insert SIM card</string>
+    <string name="insert_sim_subtitle">Insert nano SIM by\nfollowing instructions below</string>
+    <string name="insert_sim_enable_backup_button_label">Enable cellular backup</string>
+    <string name="unscrew_sim_slot_subtitle">Unplug the Aon from the power. Undo\nthe screw and lift up the access door.</string>
+    <string name="unscrew_sim_slot_title">Unscrew the SIM slot</string>
+    <string name="screw_sim_slot_title">Screw it back on</string>
+    <string name="screw_sim_slot_subtitle">Screw the access door back into place.\nPlug the Aon pod to power.</string>
+    <string name="insert_sim_item_title">Insert SIM</string>
+    <string name="insert_sim_item_subtitle">Push in the SIM card until \nyou hear an audible ‘click’</string>
+    <string name="insert_sim_back_button_label">Back</string>
+    <string name="insert_sim_action_ready">I am ready</string>
+    <string name="looking_for_sim_card">Looking for SIM card</string>
+    <string name="insert_sim_dialog_dialog_title">Failed to find SIM card</string>
+    <string name="insert_sim_dialog_dialog_description">Reinsert the SIM card and try again</string>
+    <string name="insert_sim_dialog_dialog_try_again">Try again</string>
+    <string name="insert_sim_dialog_contact_support">Contact support</string>
+    <string name="insert_sim_dialog_close">Close</string>
+
+    <string name="switch_gateway_title">Switch Gateway</string>
+    <string name="required_lte_node_gateway_transition_header_title">Switch Aon to gateway</string>
+    <string name="optional_lte_gateway_header_title">Make a SuperPod Aon with cellular your new gateway</string>
+    <string name="required_lte_node_gateway_transition_header_content_description">Switch Aon to gateway image</string>
+    <string name="optional_lte_gateway_header_content_description">Switch Aon to gateway image</string>
+
+    <string name="required_lte_node_gateway_transition_header_description">Your SuperPod Aon with cellular needs to be in gateway mode to enable cellular. Connect modem to the ethernet port on the pod.</string>
+    <string name="optional_lte_gateway_header_description">Swap the pod currently connected to your modem with your new Aon and unlock its cellular feature.</string>
+    <string name="required_lte_node_gateway_transition_action_ready">I am ready</string>
+    <string name="required_lte_node_gateway_transition_waiting_for_pod_text">Waiting for pod to come online</string>
+    <string name="required_lte_node_gateway_transition_enabling_cellular_backup_text">Enabling cellular backup</string>
+
+    <string name="required_lte_node_gateway_transition_pod_info_text">Your cellular ready pod has “LTE” written on the bottom</string>
+    <string name="optional_lte_gateway_pod_waiting_text">Waiting for you to switch pod with Aon</string>
+    <string name="required_lte_node_gateway_transition_pod_status_switched">Pod switched to gateway</string>
+    <string name="required_lte_node_gateway_transition_are_your_sure_dialog_title">Are you sure?</string>
+    <string name="required_lte_node_gateway_transition_are_your_sure_dialog_message">Your cellular won\'t work</string>
+    <string name="required_lte_node_gateway_transition_are_your_sure_dialog_positive_button">Yes</string>
+    <string name="required_lte_node_gateway_transition_are_your_sure_dialog_negative_button">Cancel</string>
+
+    <string name="optional_lte_gateway_detected">Gateway detected</string>
+
+    <string name="lte_capability_check_dialog_title">We are confirming LTE capability of your SuperPod Aon</string>
+    <string name="lte_capability_check_dialog_subtitle">This can take up to 2 min</string>
+
+    <string name="switch_router_header_title">Switch to router mode</string>
+    <string name="switch_router_header_description">Your network needs to be in router mode to enable cellular. Router mode configuration can be found in advanced settings.</string>
+    <string name="switch_router_header_description_flex">Your network needs to be in router mode to enable Flex. Router mode configuration can be found in advanced settings.</string>
+    <string name="switch_router_action_router_mode">Switch to router mode</string>
+    <string name="switch_router_pod_waiting_text">This can take up to 2 min</string>
+    <string name="switch_router_mode_enabled">Router mode enabled</string>
+    <string name="switch_router_mode_enabling_cellular_backup">Enabling cellular backup</string>
+    <string name="switch_router_local_ip_address_change_dialog_title">Local IP addresses will change</string>
+    <string name="switch_router_local_ip_address_change_dialog_message">When node is switched to Router mode, your Local IP addresses will change. This may break any local networks you have. Nodes will be rebooted. Your devices will temporarily lose Internet connection.</string>
+    <string name="switch_router_local_ip_address_change_dialog_positive_button">Continue</string>
+    <string name="switch_router_local_ip_address_change_dialog_negative_button">Cancel</string>
+    <string name="switch_router_are_your_sure_dialog_title">Are you sure?</string>
+    <string name="switch_router_are_your_sure_dialog_message">Your cellular won\'t work</string>
+    <string name="switch_router_are_your_sure_dialog_positive_button">Yes</string>
+    <string name="switch_router_are_your_sure_dialog_negative_button">Cancel</string>
+
+    <string name="cellular_activation_waiting_for_signal_header_title">Waiting for signal</string>
+    <string name="cellular_activation_waiting_for_signal_header_description">Determining signal strength.</string>
+    <string name="cellular_activation_input_access_point_name_dialog_title">Please enter Access Point Name (APN)</string>
+    <string name="cellular_activation_input_access_point_name_dialog_positive_action">Save</string>
+    <string name="cellular_activation_input_access_point_name_dialog_negative_action">Cancel</string>
+
+    <string name="cellular_activation_header_title">Cellular backup is on</string>
+    <string name="cellular_activation_header_title_no_signal">Cellular backup is on, but you have no signal</string>
+    <string name="cellular_activation_header_title_not_active">Cellular backup is enabled, but there is no active cellular service</string>
+    <string name="cellular_activation_header_description">Cellular backup will start automatically during outages of your local network.</string>
+    <string name="cellular_activation_header_description_no_signal">Try relocating the cellular pod or call support</string>
+    <string name="cellular_activation_header_description_not_active">Contact your carrier</string>
+    <string name="cellular_activation_excellent_signal_condition_text">Excellent signal. The pod has a stellar cellular connection. The WiFi environment is wide open for communications between the pods. All applications should run smoothly.</string>
+    <string name="cellular_activation_good_signal_condition_text">Good signal. Applications should run without any major impairments. Some initial buffering may happen for very high-speed applications such as 4K video streaming.</string>
+    <string name="cellular_activation_fair_signal_condition_text">Fair signal. The cellular connection to the pod is not ideal for real-time applications or high throughput applications, like 4K video streaming.</string>
+    <string name="cellular_activation_poor_signal_condition_text">Poor signal. Connected devices and/or downstream pods may continue to work, but real-time applications such as video conferencing or streaming will suffer.</string>
+    <string name="cellular_activation_call_support_button_label">Call support</string>
+    <string name="cellular_activation_done_button_label">Done</string>
+    <string name="cellular_activation_cellular_setting_button_label">Cellular settings</string>
+    <string name="cellular_activation_waiting_for_signal">Waiting for signal</string>
+
+    <string name="lte_gateway_switch_dialog_title">Failed to switch to gateway</string>
+    <string name="lte_router_switch_dialog_title">Failed to switch to router mode</string>
+    <string name="lte_gateway_switch_dialog_description">Connect modem to the ethernet port on the pod</string>
+    <string name="lte_router_switch_dialog_description">Router mode configuration can be found in advanced settings</string>
+    <string name="lte_switch_dialog_try_again">Try again</string>
+    <string name="lte_switch_dialog_contact_support">Contact support</string>
+    <string name="lte_switch_dialog_close">Close</string>
+
+    <string name="failed_to_enable_lte_dialog_title">Failed to enable cellular backup</string>
+    <string name="failed_to_enable_lte_dialog_description">Unable to detect active connection on the sim card</string>
+    <string name="failed_to_enable_lte_dialog_try_again">Try again</string>
+    <string name="failed_to_enable_lte_dialog_contact_support">Contact support</string>
+    <string name="failed_to_enable_lte_dialog_close">Close</string>
+
+    <string name="gateway_claiming_qr_code_claim_page_title">Scan QR code</string>
+    <string name="gateway_claiming_qr_code_claim_page_subtitle">Point your phone\'s camera to scan the QR code on the back of your modem.</string>
+    <string name="qr_code_claim_other_setup_option_label">Other setup options…</string>
+    <string name="qr_code_claim_progress_label">Claiming a device…</string>
+    <string name="invalid_qr_code_error_dialog_title">Something went wrong</string>
+    <string name="invalid_qr_code_error_dialog_description">Please try again or contact our support</string>
+    <string name="qr_code_additional_scan_dialog_title">Successfully added a device</string>
+    <string name="qr_code_additional_scan_dialog_description">We added your device successfully. Do you want to scan additional QR code(s)?</string>
+    <string name="qr_code_additional_scan_positive_button_label">Scan additional QR code</string>
+    <string name="qr_code_additional_scan_cancel_button_label">No, I’m done</string>
+
+    <string name="camera_settings_dialog_title">%1$s would like to access the camera</string>
+    <string name="camera_settings_dialog_description">Allow “Camera” permissions in Settings.</string>
+    <string name="camera_settings_dialog_positive_action_text">Open settings</string>
+
+    <string name="gateway_claiming_enter_serial_number_title">Enter serial number or MAC address</string>
+    <string name="gateway_claiming_enter_serial_number_description">Numbers can be found on your device and are case sensitive.</string>
+    <string name="gateway_claiming_enter_serial_number_input_hint">Serial number or MAC address</string>
+    <string name="gateway_claiming_enter_serial_number_waiting_text">Claiming a device…</string>
+    <string name="serial_number_claim_other_setup_option_action">Other setup options…</string>
+    <string name="gateway_claiming_invalid_serial_number_input_error">Please check the number and try again.</string>
+
+    <string name="failed_to_claim_node_via_ble_dialog_title">This node %1$s can\'t be claimed to your account. Please contact support.</string>
+    <string name="failed_to_claim_node_dialog_title">This node can\'t be claimed to your account. Please contact support.</string>
+    <string name="failed_to_claim_node_dialog_contact_support">Contact support</string>
+    <string name="failed_to_claim_node_dialog_ok">Ok</string>
+
+    <string name="setup_default_network_title">Name your network</string>
+    <string name="setup_default_network_subtitle">Let\'s choose a WiFi name and password. Don\'t worry, it\'s easy to change later.</string>
+    <string name="setup_default_network_wpa3_title">Set up Home WiFi</string>
+    <string name="setup_default_network_wpa3_subtitle">Let\'s choose a WiFi name and password for your home network. Don\'t worry, it\'s easy to change later.</string>
+
+    <string name="setup_default_network_input_wifi_name_hint">Choose WiFi name</string>
+    <string name="setup_default_network_input_wifi_password_hint">Choose WiFi password</string>
+    <string name="setup_default_network_wpa3_input_wifi_name_hint">Choose Home WiFi name</string>
+    <string name="dialog_changing_credentials_warning_message">Because you\'re changing %s, you will need to reconnect your devices</string>
+    <string name="dialog_changing_credentials_warning_wifi_name">WiFi Name</string>
+    <string name="dialog_changing_credentials_warning_wifi_password">WiFi Password</string>
+    <string name="dialog_changing_credentials_warning_wifi_name_and_password">WiFi Name and Password</string>
+    <string name="dialog_bluetooth_pairing_failed_title">Bluetooth pairing failed.  Try again</string>
+    <string name="dialog_bluetooth_write_not_applied_title">Change settings and try again</string>
+    <string name="dialog_bluetooth_write_not_applied_message">We paired your device but the advanced settings did not work.</string>
+    <string name="dialog_bluetooth_pairing_remove_bonding_title">Remove bluetooth pairing</string>
+    <string name="dialog_bluetooth_pairing_remove_bonding_message">In order to continue please forget this device from bluetooth pairing list. Find POD tap info icon and then tap on “Unpair”.</string>
+
+    <string name="setup_secondary_network_title">Set up Guest WiFi</string>
+    <string name="setup_secondary_network_subtitle">Securely stop guest devices from accessing devices on your home network. Enable selective access anytime from within the app.</string>
+    <string name="setup_secondary_network_input_wifi_name_hint">Choose WiFi name</string>
+    <string name="setup_secondary_network_input_wifi_password_hint">Choose WiFi password</string>
+    <string name="setup_secondary_network_wifi_name_already_used">WiFi name already used</string>
+    <string name="setup_secondary_network_password_already_used">Password already used</string>
+
+    <string name="wan_ip_claim_header_title">Great, now let\'s set up your network</string>
+    <string name="wan_ip_claim_progress_description">Searching for modem…</string>
+    <string name="wan_ip_claim_unknown_error_message">Something went wrong</string>
+    <string name="wan_ip_claim_setup_options_label">Other setup options</string>
+    <string name="wan_ip_claim_modem_not_found_message">Modem not found</string>
+
+    <string name="duplicate_wifi_title">Whoops, you already have a WiFi network with that name.</string>
+    <string name="duplicate_wifi_description">Turn off your old router or disable the antennas if you\'d like to use this network name. Otherwise, consider a new and unique WiFi name.</string>
+    <string name="duplicate_wifi_try_again">Try again</string>
+
+    <string name="add_nodes_title">Add remaining pods</string>
+    <string name="add_nodes_subtitle">Spread pods around the home, and be mindful of common WiFi obstacles.</string>
+    <string name="add_nodes_next_action">All done</string>
+
+    <string name="membership_starts_header_title">Your HomePass\nmembership\nstarts now</string>
+
+    <string name="placement_tips_slide_title0">While we create your WiFi zones, here are some pod placement tips for best performance.</string>
+    <string name="placement_tips_slide_button_text">View tips</string>
+    <string name="placement_tips_slide_title1">Build a fast core</string>
+    <string name="placement_tips_slide_plug_in_title">Plug in correctly</string>
+    <string name="placement_tips_title_avoid_obstructions">Avoid obstructions</string>
+    <string name="placement_tips_title_avoid_metals">Avoid metals</string>
+    <string name="placement_tips_title_keep_plugs_free">Keep your plugs free</string>
+    <string name="placement_tips_title_position_securely">Position securely</string>
+    <string name="placement_tips_slide_description1">Place pods toward the inside of your home. Try to avoid outer walls near doors or windows for faster WiFi.</string>
+    <string name="placement_tips_slide_plug_in_description">Place the pod with the bottom outlet and ethernet ports facing down. Make sure that it is firm against the wall for safe electrical use.</string>
+    <string name="placement_tips_description_avoid_obstructions">Placing pods behind dense objects such as appliances can reduce WiFi signal range.</string>
+    <string name="placement_tips_description_avoid_metals">Be especially mindful of metal objects such as waste bins or appliances. They interfere with the WiFi signal in dramatic ways.</string>
+    <string name="placement_tips_description_keep_plugs_free">We recommend using the bottom outlet to make other device plugs easier to access.</string>
+    <string name="placement_tips_description_position_securely">Make sure the pod cannot easily be unplugged or removed.</string>
+
+    <string name="location_permission_for_wifi_description">To be able to scan for surrounding Wifi networks, please allow location permission on next dialog.</string>
+    <string name="location_permission_for_wifi_general_description">To be able to scan for surrounding Wifi networks, please allow location permission on next dialog.</string>
+    <string name="location_permission_for_bluetooth_description">To be able to use Bluetooth and scan for pods, please allow location permission on next dialog.</string>
+    <string name="location_permission_for_bluetooth_general_description">To be able to use Bluetooth and scan for pods, please allow location permission on next dialog.</string>
+    <string name="location_permission_action">OK</string>
+
+    <string name="enable_location_title">Please turn on location services</string>
+    <string name="enable_location_for_bluetooth_description_general">To be able to use Bluetooth and scan for pods, please enable location services on settings screen.</string>
+    <string name="enable_location_for_node_scanning_description">To be able to use Bluetooth and scan for pods, please enable location services on settings screen.</string>
+    <string name="enable_location_for_wifi_scanning_description">To be able to scan for surrounding Wifi networks, please enable location services on settings screen.</string>
+    <string name="enable_location_general_description">To be able to use Bluetooth and scan for pods, please enable location services on settings screen.</string>
+    <string name="enable_location_action">Turn on location services</string>
+
+    <string name="enable_bluetooth_title">Please turn on Bluetooth</string>
+    <string name="enable_bluetooth_for_node_scanning_description">One more thing! Bluetooth (BLE) is needed to complete setup. Please enable it now.</string>
+    <string name="enable_bluetooth_general_description">One more thing! Bluetooth (BLE) is needed to complete setup. Please enable it now.</string>
+    <string name="enable_bluetooth_action">Turn on Bluetooth</string>
+
+    <string name="open_app_settings_title">Location permission needed</string>
+    <string name="open_app_settings_for_bluetooth_scanning_permission_description">To be able to use Bluetooth and scan for pods to use over WiFi, please allow location permission on app permissions settings screen.</string>
+    <string name="open_app_settings_general_location_permission_description">To be able to use Bluetooth and scan for pods to use over WiFi, please allow location permission on app permissions settings screen.</string>
+
+    <plurals name="x_setting_up_wifi">
+        <item quantity="one">Setting up…\nabout %d minute left</item>
+        <item quantity="other">Setting up…\nabout %d minutes left</item>
+    </plurals>
+
+    <string name="gateway_selection_header_title">Name your network</string>
+    <string name="gateway_selection_header_description">Let\'s choose a WiFi name and password. Don\'t worry, it\'s easy to change later.</string>
+    <plurals name="gateway_network_selection_note_text">
+        <item quantity="other">%1$d devices currently not connected to %2$s will be disconnected. They will need to be manually reconnected.</item>
+        <item quantity="one">%1$d device currently not connected to %2$s will be disconnected. They will need to be manually reconnected.</item>
+    </plurals>
+
+    <string name="new_network_selection_note_text">All devices connected to your existing WiFi networks will be disconnected. They need to be manually reconnected to your new WiFi.</string>
+    <string name="network_selection_note_text">Devices currently connected to %s will be disconnected. They will need to be manually reconnected.</string>
+    <string name="network_selection_existing_network_note_text">Tip : Choosing the same password as before for %s will automatically reconnect all devices previously connecting with that password to your HomePass WiFi.</string>
+    <string name="control_mode_accept_settings">In order to manage your WiFi network in the Bell app, it is required to accept the settings for your Home Hub Gateway</string>
+    <string name="control_mode_manage_your_network">Manage your network</string>
+
+    <string name="gateway_network_selection_note_new_wifi_text">All %s devices connected to your existing WiFi networks will be disconnected. They need to be manually reconnected to your new WiFi.</string>
+    <plurals name="gateway_network_selection_devices_count">
+        <item quantity="other">In use by %d devices</item>
+        <item quantity="one">In use by %d device</item>
+    </plurals>
+    <string name="gateway_network_selection_new_wifi_name">New WiFi name</string>
+
+    <string name="waiting_for_super_pod_header_title">Waiting for SuperPod</string>
+    <string name="waiting_for_super_pod_description">We\'ll continue after the SuperPod is fully ready for action</string>
+    <string name="waiting_for_super_pod_lte_header_title">Waiting for SuperPod Aon</string>
+    <string name="waiting_for_super_pod_firmware_not_ready_description">One or more pods are still not ready for firmware. It will automatically update later.</string>
+    <plurals name="waiting_for_super_pod_progress_text">
+        <item quantity="one">Waiting for %d pod to complete first time boot-up.</item>
+        <item quantity="other">Waiting for %d pods to complete first time boot-up.</item>
+    </plurals>
+
+    <string name="waiting_for_modem_info_header_title">Wait for your modem to come online</string>
+    <string name="waiting_for_modem_info_description">This will ensure that your pod receives the proper IP address.</string>
+
+    <string name="replace_with_super_pod_title">Replace Pod with SuperPod</string>
+    <string name="replace_with_super_pod_description">We found a Pod. Please replace it with the SuperPod in your pack and press Okay.\n\nSuperPod is 3 times as fast as a Pod, so connecting it to the Modem will provide far better WiFi experience throughout your home.</string>
+    <string name="replace_with_super_pod_action">Okay</string>
+    <string name="bluetooth_pairing_dialog_message">Enter this code in system popup</string>
+
+    <string name="wan_ip_wifi_setup_header_title">Name your network</string>
+    <string name="wan_ip_wifi_setup_header_description">Let\'s choose a WiFi name and password. Don\'t worry, it\'s easy to change later.</string>
+    <string name="wan_ip_wifi_setup_input_wifi_name_hint">Choose WiFi name</string>
+    <string name="wan_ip_wifi_setup_input_wifi_password_hint">Choose WiFi password</string>
+    <string name="wan_ip_wifi_setup_tip_label">Tip : Choosing the same password as before for [%1$s] will automatically reconnect devices that are previously connected with that password to your HomePass WiFi.</string>
+    <string name="add_nodes_found_super_pod_description">Found SuperPod</string>
+    <string name="add_nodes_found_super_pod_6e_description">Found SuperPod 6E</string>
+    <string name="add_nodes_found_super_pod_lte_description">Found SuperPod Aon</string>
+    <string name="add_nodes_found_super_pod_ax_description">Found SuperPod AX</string>
+    <string name="add_nodes_found_pod_description">Found Pod</string>
+    <string name="add_nodes_found_gateway_description">Found Gateway</string>
+    <string name="add_nodes_found_residential_gateway_description">Found Gateway</string>
+    <string name="add_nodes_looking_node_description">Looking…</string>
+
+    <plurals name="add_nodes_looking_progress_description">
+        <item quantity="one">Looking for %d remaining pod</item>
+        <item quantity="other">Looking for %d remaining pods</item>
+    </plurals>
+    <plurals name="add_nodes_finished_progress_description">
+        <item quantity="one">All pods found</item>
+        <item quantity="other">All %d pods found</item>
+    </plurals>
+
+    <string name="purchase_membership_action_bar_title">Membership</string>
+    <string name="purchase_membership_action_bar_positive_action">Done</string>
+
+    <!--    Updating firmware -->
+    <string name="firmware_update_title_in_progress">Updating %s</string>
+    <string name="firmware_update_title_completed">%s updated</string>
+    <string name="firmware_update_description_getting_info">Updating pods</string>
+    <string name="firmware_update_description_in_progress">%d of %d pods updated</string>
+    <string name="firmware_update_description_completed">All pods updated</string>
+    <string name="firmware_update_failed_description">Rest assured we are investigating the issue and will try to update this pod again later tonight.</string>
+    <string name="firmware_update_complete">Complete</string>
+    <string name="firmware_update_rebooting">Rebooting</string>
+    <string name="firmware_update_updating">Updating</string>
+    <string name="firmware_update_downloading">Downloading</string>
+    <string name="firmware_update_failed">Update failed</string>
+    <string name="firmware_update_waiting">It could take up to 10 minutes for the update to complete successfully.</string>
+
+
+    <string name="advanced_setup_support_title">Advanced setup</string>
+    <string name="advanced_setup_support_wired_device_title">I want to keep my ethernet-connected devices attached to my existing router. For ex. NAS, IoT smarthubs, printer, etc.</string>
+    <string name="advanced_setup_support_wired_device_subtitle">Connect the node to your router LAN port and continue with %s setup.</string>
+    <string name="advanced_setup_support_switch_title">Multiple rooms in my home are wired to an ethernet Switch.</string>
+    <string name="advanced_setup_support_switch_subtitle">Connect the first Node to your switch and continue with setup. In your other rooms, connect the rest of the Nodes to Ethernet before plugging in to outlet (or if no Ethernet is available in the room, plug in the Nodes and connect wirelessly.) Connecting multiple Nodes to your router creates a robust %s experience.</string>
+    <string name="advanced_setup_support_verizon_modem_title">I have a Verizon FiOS modem. Applicable to all Fiber Optic Services.</string>
+    <string name="advanced_setup_support_verizon_modem_subtitle">The FiOS device typically handles both modem and router functions. Plug a pod into the secondary ethernet ports of the FiOS Modem/Router combo box.</string>
+    <string name="advanced_setup_support_voip_phone_title">I have a VoIP Phone connected to my modem.</string>
+    <string name="advanced_setup_support_voip_phone_subtitle">VoIP phones such as Ooma or Vonage are typically connected between your modem and the router. Now that you have %s, the router will be replaced by a node that is connected directly to your VoIP phone.</string>
+    <string name="advanced_setup_support_airpot_time_capsule_title">I have an Airport Time Capsule connected to my modem.</string>
+    <string name="advanced_setup_support_airpot_time_capsule_subtitle">Connect a node to the Time Capsule with the provided Ethernet cable.</string>
+    <string name="advanced_setup_support_airpot_time_capsule_bottom_text">Tip: Turn off the WiFi network on your Time Capsule later and let %s manage your WiFi network. This will allow you to keep using the Time Capsule for your Time Machine backups.</string>
+    <string name="advanced_setup_support_faq_label">View the full FAQ</string>
+    <string name="advanced_setup_support_call_us_label">Call us</string>
+    <string name="advanced_setup_support_email_us_label">Email us</string>
+    <string name="advanced_setup_support_header_text">Which one of the scenarios below describes your setup need?</string>
+
+    <string name="setup_person_name_header_title">Hello there!</string>
+    <string name="setup_person_name_header_description">It\'s a joy to have you with us.\nWhat name do you go by</string>
+    <string name="person_info_card_name_input_hint">Your name</string>
+
+    <string name="percent_placeholder">%s%%</string>
+
+    <string name="setup_captive_portal_network_header_title">Guest WiFi network</string>
+    <string name="setup_captive_portal_network_header_description">This optional network is for any guests to your business. You’ll be able to configure a WiFi landing page later.</string>
+    <string name="setup_captive_portal_network_name_hint">Guest WiFi name</string>
+    <string name="setup_captive_portal_network_enable_wifi_action">Enable guest WiFi</string>
+    <string name="setup_captive_portal_network_limit_usage_title">Limit internet usage</string>
+    <string name="setup_captive_portal_network_limit_usage_description">Tap above to choose how much of your total internet bandwidth to allow guests to use.</string>
+    <string name="setup_captive_portal_network_wifi_name_already_used">WiFi name already used</string>
+
+    <!--    Limit internet dialog-->
+    <string name="dialog_limit_internet_title">Limit internet &#x0025;</string>
+
+    <!--    Dialog actions-->
+    <string name="dialog_positive_action">OK</string>
+
+    <string name="gateway_connect_pieces_header_title">Great, now let\'s\nset up your network</string>
+    <string name="gateway_connect_pieces_header_description">Complete the following simple steps to bring your new WiFi to life</string>
+    <string name="gateway_connect_pieces_step_first_title">Make sure your modem is connected to the internet.</string>
+    <string name="gateway_connect_pieces_step_first_description">Use the cable supplied by your\nservice provider.</string>
+    <string name="gateway_connect_pieces_step_second_title">Wait for the modem to come online.</string>
+    <string name="gateway_connect_pieces_step_second_description">Stay close until it boots up.</string>
+
+    <string name="connect_modem_info_header_title">Connect modem to cable from your service provider</string>
+    <string name="connect_modem_info_description">Use the cable supplied by your service provider.</string>
+    <string name="connect_modem_info_advance_setup_action_title">Advanced Setup</string>
+
+    <string name="aon_without_cellular_support_alert_dialog_title">In order to add cellular backup you need to add Aon with cellular to your network</string>
+
+    <string name="setup_zones_header_title">Set up WiFi zones</string>
+    <string name="setup_zones_header_description">Devices connected to each of these three WiFi zones will have specific access to network resources and other devices on your network.</string>
+    <string name="setup_zones_step_1_title">Secure WiFi zone</string>
+    <string name="setup_zones_step_1_description">This network is for your point of sale systems, video cameras, and anything else you want to keep separate from the rest of your network.</string>
+    <string name="setup_zones_step_2_title">Employee WiFi zone</string>
+    <string name="setup_zones_step_2_description">This network is where you and your staff should connect most of your devices, including things you need local access to (such as a printer).</string>
+    <string name="setup_zones_step_3_title">Guest WiFi zone</string>
+    <string name="setup_zones_step_3_description">This optional network is for any guests to your business. You’ll be able to configure a WiFi landing page later.</string>
+
+    <string name="placement_tips_do">Do</string>
+    <string name="placement_tips_dont">Don\'t</string>
+
+    <string name="location_permission_title">Location permission needed</string>
+    <string name="open_app_settings_for_wifi_location_permission_description">To be able to scan for surrounding Wifi networks, please allow location permission on app permissions settings screen.</string>
+    <string name="open_app_settings_action">OK</string>
+
+    <string name="close_application_dialog_title">Do you want to quit the app?</string>
+    <string name="close_application_dialog_primary_action">Quit</string>
+
+    <string name="terms_and_conditions_action_bar_positive_action">Accept</string>
+
+    <string name="verify_wifi_description">Interference is no fun! Be sure to unplug your old router or disable the antenna</string>
+    <string name="verify_header_title">Did you turn off your old WiFi network?</string>
+    <string name="verify_wifi_network_next_action">Yes, I turned it off</string>
+    <string name="verify_wifi_network_information_action">How do I do that?</string>
+
+</resources>
