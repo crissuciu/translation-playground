@@ -2,5 +2,6 @@
 <resources>
     <string name="ok">OK</string>
     <string name="save">Enregistrer</string>
-    <string name="create">Créé</string>
+    <string name="create">Créer</string>
+    <string name="add">Ajouter</string>
 </resources>

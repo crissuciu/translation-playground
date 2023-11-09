@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ok">OK</string>
-    <string name="save">Guardar</string>
+    <string name="save">Salvar</string>
     <string name="create">Criar</string>
     <string name="add">Adicionar</string>
 </resources>

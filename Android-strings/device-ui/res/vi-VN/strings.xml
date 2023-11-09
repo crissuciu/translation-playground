@@ -2,5 +2,6 @@
 <resources>
     <string name="ok">OK</string>
     <string name="save">Lưu</string>
-    <string name="create">Create</string>
+    <string name="create">Tạo</string>
+    <string name="add">Thêm</string>
 </resources>

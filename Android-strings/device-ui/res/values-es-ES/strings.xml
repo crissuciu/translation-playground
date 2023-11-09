@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ok">Aceptar</string>
-    <string name="save">Guardando</string>
-    <string name="create">Create</string>
+    <string name="save">Guardar</string>
+    <string name="create">Crear</string>
+    <string name="add">Añadir</string>
 </resources>
