@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "\"%@\" quiere acceder a la cámara";
+"media_capture_privacy_alert_message" = "Permitir el acceso a \"Cámara\" en Configuración.";
+"media_capture_privacy_alert_cancel_button" = "Cancelar";
+"media_capture_privacy_alert_open_settings_button" = "Nueva configuración abierta";

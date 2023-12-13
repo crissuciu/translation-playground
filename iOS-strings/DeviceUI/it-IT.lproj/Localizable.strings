@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "\"%@\" desidera accedere alla fotocamera";
+"media_capture_privacy_alert_message" = "Consenti le autorizzazioni per \"Fotocamera\" in Impostazioni.";
+"media_capture_privacy_alert_cancel_button" = "Annulla";
+"media_capture_privacy_alert_open_settings_button" = "Nuove impostazioni di apertura";

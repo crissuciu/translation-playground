@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interval_seconds</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d 秒前</string>
+			<key>other</key>
+			<string>%d 秒前</string>
+		</dict>
+	</dict>
+	<key>interval_minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d分前</string>
+			<key>other</key>
+			<string>%d分前</string>
+		</dict>
+	</dict>
+	<key>interval_hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d 時間前</string>
+			<key>other</key>
+			<string>%d時間前</string>
+		</dict>
+	</dict>
+	<key>interval_days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d 日前</string>
+			<key>other</key>
+			<string>%d 日前</string>
+		</dict>
+	</dict>
+	<key>interval_months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d ヵ月前</string>
+			<key>other</key>
+			<string>%d ヶ月前</string>
+		</dict>
+	</dict>
+	<key>interval_years</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d 年前</string>
+			<key>other</key>
+			<string>%d 年前</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

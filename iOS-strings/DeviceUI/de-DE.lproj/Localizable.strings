@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "\"%@\" möchte auf die Kamera zugreifen";
+"media_capture_privacy_alert_message" = "Lege die Berechtigungen für \"Kamera\" in den Einstellungen fest.";
+"media_capture_privacy_alert_cancel_button" = "Abbrechen";
+"media_capture_privacy_alert_open_settings_button" = "Neu – Einstellungen öffnen";

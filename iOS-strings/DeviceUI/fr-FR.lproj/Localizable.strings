@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "« %@ » souhaiterait accéder à l'appareil photo";
+"media_capture_privacy_alert_message" = "Autorisez les accès à « l’appareil photo » dans les paramètres.";
+"media_capture_privacy_alert_cancel_button" = "Annuler";
+"media_capture_privacy_alert_open_settings_button" = "Nouveaux paramètres d'ouverture";

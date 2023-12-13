@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interval_seconds</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Há %d segundo</string>
+			<key>other</key>
+			<string>Há %d segundos</string>
+		</dict>
+	</dict>
+	<key>interval_minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Há %d minuto</string>
+			<key>other</key>
+			<string>Há %d minutos</string>
+		</dict>
+	</dict>
+	<key>interval_hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Há %d hora</string>
+			<key>other</key>
+			<string>Há %d horas</string>
+		</dict>
+	</dict>
+	<key>interval_days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Há %d dia</string>
+			<key>other</key>
+			<string>Há %d dias</string>
+		</dict>
+	</dict>
+	<key>interval_months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Há %d mês</string>
+			<key>other</key>
+			<string>Há %d meses</string>
+		</dict>
+	</dict>
+	<key>interval_years</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>Há %d ano</string>
+			<key>other</key>
+			<string>Há %d anos</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

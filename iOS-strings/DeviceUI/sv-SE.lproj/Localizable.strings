@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "\"%@\" vill ha åtkomst till kameran";
+"media_capture_privacy_alert_message" = "Ge \"Camera\"behörighet i Inställningar.";
+"media_capture_privacy_alert_cancel_button" = "Avbryt";
+"media_capture_privacy_alert_open_settings_button" = "Nya öppna inställningar";

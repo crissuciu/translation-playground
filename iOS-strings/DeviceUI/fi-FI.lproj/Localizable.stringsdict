@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interval_seconds</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d sekunti sitten</string>
+			<key>other</key>
+			<string>%d sekuntia sitten</string>
+		</dict>
+	</dict>
+	<key>interval_minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d minuutti sitten</string>
+			<key>other</key>
+			<string>%d minuuttia sitten</string>
+		</dict>
+	</dict>
+	<key>interval_hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d tunti sitten</string>
+			<key>other</key>
+			<string>%d tuntia sitten</string>
+		</dict>
+	</dict>
+	<key>interval_days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d päivä sitten</string>
+			<key>other</key>
+			<string>%d päivää sitten</string>
+		</dict>
+	</dict>
+	<key>interval_months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d kuukausi sitten</string>
+			<key>other</key>
+			<string>%d kuukautta sitten</string>
+		</dict>
+	</dict>
+	<key>interval_years</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@plural_key@</string>
+		<key>plural_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d vuosi sitten</string>
+			<key>other</key>
+			<string>%d vuotta sitten</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

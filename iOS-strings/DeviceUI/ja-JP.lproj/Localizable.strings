@@ -1,0 +1,4 @@
+"media_capture_privacy_alert_title" = "「%@」がカメラへのアクセスを要求しています";
+"media_capture_privacy_alert_message" = "設定画面で「カメラ」へのアクセス権限を許可します。";
+"media_capture_privacy_alert_cancel_button" = "キャンセル";
+"media_capture_privacy_alert_open_settings_button" = "新規設定を開く";
