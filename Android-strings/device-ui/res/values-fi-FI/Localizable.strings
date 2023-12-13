@@ -1,0 +1,66 @@
+// MARK: Network Awareness Home Card
+"network_awareness_home_card_title" = "Uusia toimintoja älykotisi optimointiin";
+"network_awareness_home_card_description" = "Voit tarkastella toimintaa ja priorisoida sovelluksia (kuten pelaamista tai videoiden suoratoistamista varten) ottamalla tämän toiminnon käyttöön.";
+"network_awareness_home_card_enable_button_title" = "Ota käyttöön";
+
+// MARK: Network Awareness Bottom Sheet Alert
+"network_awareness_bottom_sheet_view_card_alert_title" = "Yksityistilan poistaminen käytöstä";
+"network_awareness_bottom_sheet_view_card_alert_message" = "Tämän ominaisuuden ottaminen käyttöön poistaa Guardin yksityistilan käytöstä";
+"network_awareness_bottom_sheet_alert_cancel_button_title" = "Peruuta";
+"network_awareness_bottom_sheet_alert_ok_button_title" = "OK";
+
+// MARK: Network Awareness Card
+"network_awareness_card_view_header_title" = "Optimoi älykotisi";
+"network_awareness_card_view_network_monitoring_title" = "Sovellusten toiminta";
+"network_awareness_card_view_network_monitoring_text" = "Seuraa sovellusten toimintaa ja varmistaa, että ne toimivat odotetulla tavalla.";
+"network_awareness_card_view_network_prioritization_title" = "Sovellusten priorisointi";
+"network_awareness_card_view_network_prioritization_text" = "Priorisoi sovelluskategoriat koko kodin tasolla.";
+"network_awareness_card_view_info_card_text" = "Jotta Plume voi tunnistaa kodissasi käytössä olevat sovellukset, se kerää ja tallentaa tietoja verkkoosi yhdistettynä olevista laitteista.";
+"network_awareness_card_view_agree_button_title" = "Hyväksyn";
+
+// MARK: Network Priority State Home Card
+"network_traffic_priority_state_home_card_default_priority_title" = "Verkon prioriteetti: oletus";
+"network_traffic_priority_state_home_card_conferencing_priority_title" = "Verkon prioriteetti: videopuhelut";
+"network_traffic_priority_state_home_card_gaming_priority_title" = "Verkon prioriteetti: pelaaminen";
+"network_traffic_priority_state_home_card_streaming_priority_title" = "Verkon prioriteetti: suoratoisto";
+"network_traffic_priority_state_home_card_prioritization_disabled_title" = "Sovelluksen priorisointi ei ole käytössä";
+"network_traffic_priority_state_home_card_default_title" = "Verkon prioriteetti:";
+"network_traffic_priority_state_home_card_description" = "Vaihda prioriteettia napauttamalla";
+"network_traffic_priority_state_home_card_prioritization_disabled_description" = "Ota käyttöön napauttamalla";
+
+// MARK: Network Traffic Priority Explanation Card
+"network_traffic_priority_explanation_card_description" = "Sovellusten priorisointi ja sovellusten toiminta toimivat yhdessä ja ne ovat käytössä tai poissa käytöstä yhdessä.";
+
+// MARK: Network Priority Screen
+"network_traffic_priority_screen_title" = "Sovellusten priorisointi";
+"network_traffic_priority_screen_done_button_title" = "Valmis";
+"network_traffic_priority_screen_header_info_text" = "Aseta sovelluskategoriat etusijalle koko kodin tasolla esimääritettyjen asetusten perusteella.";
+"network_traffic_priority_screen_templates_header_section_title" = "Valitse priorisoitava sovelluskategoria";
+
+// MARK: Network Priority Enablement Card
+"network_traffic_priority_enablement_card_header_title" = "Sovelluksen toiminnot";
+"network_traffic_priority_enablement_card_disabled_header_text" = "Poistettu käytöstä";
+"network_traffic_priority_enablement_card_enabled_header_text" = "Käytössä";
+"network_traffic_priority_enablement_card_error_header_text" = "Ei voi ottaa käyttöön juuri nyt. Yritä uudelleen";
+"network_traffic_priority_enablement_card_loading_header_text" = "Otetaan käyttöön...";
+
+// MARK: Network Priority Template Card
+"network_traffic_priority_template_card_default_title" = "Oletus";
+"network_traffic_priority_template_card_default_description" = "HomePass hallinnoi aktiivisesti verkkoliikennettä, mikä auttaa kaikkia laitteita saavuttamaan parhaan suorituskyvyn laitteen tyypistä riippuen.";
+"network_traffic_priority_template_card_conferencing_title" = "Videopuhelut";
+"network_traffic_priority_template_card_video_conferencing_description" = "Tämä asetus määrittää työhön liittyville sovelluksille (FaceTime, Zoom, Teams, Google Meet jne.) korkeimman prioriteetin.";
+"network_traffic_priority_template_card_gaming_title" = "Pelaaminen";
+"network_traffic_priority_template_card_gaming_description" = "Tämän asetuksen valitseminen laittaa pelisovellukset (COD, Roblox jne.) kaiken muun edelle.";
+"network_traffic_priority_template_card_streaming_title" = "Suoratoisto";
+"network_traffic_priority_template_card_streaming_description" = "Valitse tämä, niin pääset nauttimaan sulavasta suoratoistopalvelujen (Netflix, Prime, Disney+ jne.) viihteestä talon muun verkkoliikenteen yli.";
+"network_traffic_priority_template_card_performance_header_title" = "Tämänhetkinen toiminta";
+"network_traffic_priority_template_card_performance_details_text" = "%@, %@";
+
+// MARK: Category performance Pill
+"network_traffic_category_performance_pill_title_excellent" = "Erinomainen";
+"network_traffic_category_performance_pill_title_fair" = "Kohtalainen";
+"network_traffic_category_performance_pill_title_poor" = "Heikko";
+"network_traffic_category_performance_pill_title_no_data" = "Ei dataa";
+
+// MARK: Network Awareness enabled mini banner
+"network_awareness_enable_success_mini_banner_title" = "Käytössä olevat ominaisuudet";
