@@ -7,7 +7,7 @@
 "network_awareness_bottom_sheet_view_card_alert_title" = "Turning off privacy";
 "network_awareness_bottom_sheet_view_card_alert_message" = "Enabling this feature will disable the privacy mode for Guard";
 "network_awareness_bottom_sheet_alert_cancel_button_title" = "Cancel";
-"network_awareness_bottom_sheet_alert_ok_button_title" = "OK";
+"network_awareness_bottom_sheet_alert_button_title" = "OK";
 
 // MARK: Network Awareness Card
 "network_awareness_card_view_header_title" = "Optimize your smart home";
