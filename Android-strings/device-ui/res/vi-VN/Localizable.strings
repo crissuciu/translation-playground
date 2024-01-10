@@ -1,0 +1,66 @@
+// MARK: Network Awareness Home Card
+"network_awareness_home_card_title" = "Tính năng mới để tối ưu hóa ngôi nhà thông minh của bạn";
+"network_awareness_home_card_description" = "Để xem hiệu suất và ưu tiên các ứng dụng (chẳng hạn như Chơi game, Phát trực tuyến video, v.v.), hãy bật tính năng này.";
+"network_awareness_home_card_enable_button_title" = "Bật";
+
+// MARK: Network Awareness Bottom Sheet Alert
+"network_awareness_bottom_sheet_view_card_alert_title" = "Đang tắt chế độ riêng tư";
+"network_awareness_bottom_sheet_view_card_alert_message" = "Bật tính năng này sẽ tắt chế độ riêng tư cho Guard";
+"network_awareness_bottom_sheet_alert_cancel_button_title" = "Hủy";
+"network_awareness_bottom_sheet_alert_button_title" = "Đồng ý";
+
+// MARK: Network Awareness Card
+"network_awareness_card_view_header_title" = "Tối ưu hóa ngôi nhà thông minh của bạn";
+"network_awareness_card_view_network_monitoring_title" = "Hiệu suất ứng dụng";
+"network_awareness_card_view_network_monitoring_text" = "Theo dõi hiệu suất của các ứng dụng để đảm bảo các ứng dụng hoạt động như mong đợi.";
+"network_awareness_card_view_network_prioritization_title" = "Ưu tiên ứng dụng";
+"network_awareness_card_view_network_prioritization_text" = "Ưu tiên các danh mục ứng dụng cho toàn bộ ngôi nhà.";
+"network_awareness_card_view_info_card_text" = "Để xác định các ứng dụng đang chạy trong nhà của bạn, Plume sẽ thu thập và lưu trữ thông tin ứng dụng đối với các thiết bị kết nối với mạng của bạn.";
+"network_awareness_card_view_agree_button_title" = "Tôi đồng ý";
+
+// MARK: Network Priority State Home Card
+"network_traffic_priority_state_home_card_default_priority_title" = "Ưu tiên mạng: Mặc định";
+"network_traffic_priority_state_home_card_conferencing_priority_title" = "Ưu tiên mạng: Hội nghị";
+"network_traffic_priority_state_home_card_gaming_priority_title" = "Ưu tiên mạng: Chơi game";
+"network_traffic_priority_state_home_card_streaming_priority_title" = "Ưu tiên mạng: Phát trực tuyến";
+"network_traffic_priority_state_home_card_prioritization_disabled_title" = "Đã tắt ưu tiên ứng dụng";
+"network_traffic_priority_state_home_card_default_title" = "Ưu tiên mạng:";
+"network_traffic_priority_state_home_card_description" = "Nhấn để thay đổi ưu tiên";
+"network_traffic_priority_state_home_card_prioritization_disabled_description" = "Nhấn để bật";
+
+// MARK: Network Traffic Priority Explanation Card
+"network_traffic_priority_explanation_card_description" = "Ưu tiên ứng dụng và Hiệu suất ứng dụng phụ thuộc lẫn nhau và sẽ cùng được bật hoặc tắt cùng với nhau.";
+
+// MARK: Network Priority Screen
+"network_traffic_priority_screen_title" = "Ưu tiên ứng dụng";
+"network_traffic_priority_screen_done_button_title" = "Xong";
+"network_traffic_priority_screen_header_info_text" = "Ưu tiên danh mục ứng dụng cho toàn bộ ngôi nhà từ bộ mẫu đã được xác định trước.";
+"network_traffic_priority_screen_templates_header_section_title" = "Chọn danh mục ứng dụng bạn muốn ưu tiên";
+
+// MARK: Network Priority Enablement Card
+"network_traffic_priority_enablement_card_header_title" = "Kiểm soát ứng dụng";
+"network_traffic_priority_enablement_card_disabled_header_text" = "Đã tắt";
+"network_traffic_priority_enablement_card_enabled_header_text" = "Đã bật";
+"network_traffic_priority_enablement_card_error_header_text" = "Không thể bật ngay bây giờ, vui lòng thử lại";
+"network_traffic_priority_enablement_card_loading_header_text" = "Đang bật...";
+
+// MARK: Network Priority Template Card
+"network_traffic_priority_template_card_default_title" = "Mặc định";
+"network_traffic_priority_template_card_default_description" = "HomePass sẽ chủ động quản lý lưu lượng truy cập của bạn sẽ giúp tất cả thiết bị đạt được hiệu suất tốt nhất có thể dựa trên loại thiết bị.";
+"network_traffic_priority_template_card_conferencing_title" = "Hội nghị";
+"network_traffic_priority_template_card_video_conferencing_description" = "Mẫu này thiết đặt các ứng dụng liên quan đến công việc phổ biến, như FaceTime, Zoom, Teams, Google Meet v.v. với mức độ ưu tiên cao nhất.";
+"network_traffic_priority_template_card_gaming_title" = "Chơi game";
+"network_traffic_priority_template_card_gaming_description" = "Chọn mẫu này sẽ tăng tốc các ứng dụng chơi game (COD, Roblox, v.v.) hơn các ứng dụng khác.";
+"network_traffic_priority_template_card_streaming_title" = "Phát trực tuyến";
+"network_traffic_priority_template_card_streaming_description" = "Bật tính năng này để thưởng thức một bộ phim không pixel bằng cách ưu tiên các ứng dụng phát trực tuyến video (Netflix, Prime, Disney+, v.v.) so với các ứng dụng còn lại của lưu lượng truy cập trong nhà.";
+"network_traffic_priority_template_card_performance_header_title" = "Hiệu suất hiện tại";
+"network_traffic_priority_template_card_performance_details_text" = "%@, %@";
+
+// MARK: Category performance Pill
+"network_traffic_category_performance_pill_title_excellent" = "Xuất sắc";
+"network_traffic_category_performance_pill_title_fair" = "Trung bình";
+"network_traffic_category_performance_pill_title_poor" = "Yếu";
+"network_traffic_category_performance_pill_title_no_data" = "Không có dữ liệu";
+
+// MARK: Network Awareness enabled mini banner
+"network_awareness_enable_success_mini_banner_title" = "Đã bật các tính năng";

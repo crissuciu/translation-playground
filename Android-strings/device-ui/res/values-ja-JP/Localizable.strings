@@ -1,0 +1,66 @@
+// MARK: Network Awareness Home Card
+"network_awareness_home_card_title" = "スマートホームを最適化する新しい機能";
+"network_awareness_home_card_description" = "アプリケーション（ゲーム、ビデオ ストリーミングなど）のパフォーマンスを確認し、優先度を設定するには、この機能を有効にしてください。";
+"network_awareness_home_card_enable_button_title" = "有効にする";
+
+// MARK: Network Awareness Bottom Sheet Alert
+"network_awareness_bottom_sheet_view_card_alert_title" = "プライバシーをオフにする";
+"network_awareness_bottom_sheet_view_card_alert_message" = "この機能を有効化すると、Guardのプライバシーモードが無効化されます";
+"network_awareness_bottom_sheet_alert_cancel_button_title" = "キャンセル";
+"network_awareness_bottom_sheet_alert_button_title" = "OK";
+
+// MARK: Network Awareness Card
+"network_awareness_card_view_header_title" = "スマートホームの最適化";
+"network_awareness_card_view_network_monitoring_title" = "アプリパフォーマンス";
+"network_awareness_card_view_network_monitoring_text" = "アプリパフォーマンスをモニタリングして、期待通りに機能していることを確認します。";
+"network_awareness_card_view_network_prioritization_title" = "アプリ優先度";
+"network_awareness_card_view_network_prioritization_text" = "自宅全体のアプリケーションのカテゴリに優先度を設定します。";
+"network_awareness_card_view_info_card_text" = "ご自宅で実行中のアプリケーションを識別するために、Plumeはお使いのネットワークに接続されたデバイスのアプリケーションの情報を収集して保存します。";
+"network_awareness_card_view_agree_button_title" = "同意する";
+
+// MARK: Network Priority State Home Card
+"network_traffic_priority_state_home_card_default_priority_title" = "ネットワーク優先度：デフォルト";
+"network_traffic_priority_state_home_card_conferencing_priority_title" = "ネットワーク優先度：会議";
+"network_traffic_priority_state_home_card_gaming_priority_title" = "ネットワーク優先度：ゲーム";
+"network_traffic_priority_state_home_card_streaming_priority_title" = "ネットワーク優先度：ストリーミング";
+"network_traffic_priority_state_home_card_prioritization_disabled_title" = "アプリ優先度無効";
+"network_traffic_priority_state_home_card_default_title" = "ネットワーク優先度：";
+"network_traffic_priority_state_home_card_description" = "タップして優先度を変更";
+"network_traffic_priority_state_home_card_prioritization_disabled_description" = "タップして有効にする";
+
+// MARK: Network Traffic Priority Explanation Card
+"network_traffic_priority_explanation_card_description" = "アプリ優先度とアプリパフォーマンスは相互に依存しているため、同時に有効または無効になります。";
+
+// MARK: Network Priority Screen
+"network_traffic_priority_screen_title" = "アプリ優先度";
+"network_traffic_priority_screen_done_button_title" = "完了";
+"network_traffic_priority_screen_header_info_text" = "事前定義済みテンプレートの中から、自宅全体のアプリケーションカテゴリに優先度を設定してください。";
+"network_traffic_priority_screen_templates_header_section_title" = "優先したいアプリのカテゴリを選択してください";
+
+// MARK: Network Priority Enablement Card
+"network_traffic_priority_enablement_card_header_title" = "アプリコントロール";
+"network_traffic_priority_enablement_card_disabled_header_text" = "無効";
+"network_traffic_priority_enablement_card_enabled_header_text" = "有効";
+"network_traffic_priority_enablement_card_error_header_text" = "現在は有効化できません。もう一度お試しください";
+"network_traffic_priority_enablement_card_loading_header_text" = "有効化中…";
+
+// MARK: Network Priority Template Card
+"network_traffic_priority_template_card_default_title" = "デフォルト";
+"network_traffic_priority_template_card_default_description" = "HomePassは、すべてのデバイスがデバイスタイプに応じた最高のパフォーマンスを発揮できるように、トラフィックをアクティブに管理します。";
+"network_traffic_priority_template_card_conferencing_title" = "会議";
+"network_traffic_priority_template_card_video_conferencing_description" = "このテンプレートでは、FaceTime、Zoom、Teams、Google Meetなどのよく使われる業務関連アプリに、最も高い優先度が設定されます。";
+"network_traffic_priority_template_card_gaming_title" = "ゲーム";
+"network_traffic_priority_template_card_gaming_description" = "このテンプレートを選択すると、ゲーミングアプリ（COD、Robloxなど）を他のすべてのアプリより優先します。";
+"network_traffic_priority_template_card_streaming_title" = "ストリーミング";
+"network_traffic_priority_template_card_streaming_description" = "自宅内の他のトラフィックよりもビデオ ストリーミングアプリ（Netflix、Prime、Disney+など）を優先してカクつきのない動画を楽しむには、この機能を有効にしてください。";
+"network_traffic_priority_template_card_performance_header_title" = "現在のパフォーマンス";
+"network_traffic_priority_template_card_performance_details_text" = "%@, %@";
+
+// MARK: Category performance Pill
+"network_traffic_category_performance_pill_title_excellent" = "素晴らしい";
+"network_traffic_category_performance_pill_title_fair" = "Fair";
+"network_traffic_category_performance_pill_title_poor" = "不十分";
+"network_traffic_category_performance_pill_title_no_data" = "データなし";
+
+// MARK: Network Awareness enabled mini banner
+"network_awareness_enable_success_mini_banner_title" = "機能有効";

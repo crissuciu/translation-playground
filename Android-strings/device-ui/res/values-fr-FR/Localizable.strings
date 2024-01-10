@@ -1,0 +1,66 @@
+// MARK: Network Awareness Home Card
+"network_awareness_home_card_title" = "De nouvelles fonctionnalités permettant d'optimiser votre maison intelligente";
+"network_awareness_home_card_description" = "Pour afficher les performances et hiérarchiser les applications (jeux, streaming vidéo, etc.), activez cette fonctionnalité.";
+"network_awareness_home_card_enable_button_title" = "Activer";
+
+// MARK: Network Awareness Bottom Sheet Alert
+"network_awareness_bottom_sheet_view_card_alert_title" = "Désactivation de la confidentialité";
+"network_awareness_bottom_sheet_view_card_alert_message" = "Activer cette fonctionnalité désactivera le mode de confidentialité pour Guard";
+"network_awareness_bottom_sheet_alert_cancel_button_title" = "Annuler";
+"network_awareness_bottom_sheet_alert_button_title" = "OK";
+
+// MARK: Network Awareness Card
+"network_awareness_card_view_header_title" = "Optimisez votre maison intelligente";
+"network_awareness_card_view_network_monitoring_title" = "Performance des applications";
+"network_awareness_card_view_network_monitoring_text" = "Surveille la performance des applications, pour s'assurer qu'elles fonctionnent comme prévu.";
+"network_awareness_card_view_network_prioritization_title" = "Hiérarchisation des applications";
+"network_awareness_card_view_network_prioritization_text" = "Hiérarchise les catégories d'applications pour toute la maison.";
+"network_awareness_card_view_info_card_text" = "Afin d'identifier les applications exécutées dans votre maison, Plume collecte et stocke les informations sur ces applications pour les appareils qui sont connectés à votre réseau.";
+"network_awareness_card_view_agree_button_title" = "J'accepte";
+
+// MARK: Network Priority State Home Card
+"network_traffic_priority_state_home_card_default_priority_title" = "Priorité du réseau : par défaut";
+"network_traffic_priority_state_home_card_conferencing_priority_title" = "Priorité du réseau : conférences";
+"network_traffic_priority_state_home_card_gaming_priority_title" = "Priorité du réseau : jeux";
+"network_traffic_priority_state_home_card_streaming_priority_title" = "Priorité du réseau : streaming";
+"network_traffic_priority_state_home_card_prioritization_disabled_title" = "Hiérarchisation des applications désactivée";
+"network_traffic_priority_state_home_card_default_title" = "Priorité du réseau :";
+"network_traffic_priority_state_home_card_description" = "Appuyer pour changer la priorité";
+"network_traffic_priority_state_home_card_prioritization_disabled_description" = "Appuyer pour activer";
+
+// MARK: Network Traffic Priority Explanation Card
+"network_traffic_priority_explanation_card_description" = "Les fonctionnalités Hiérarchisation des applications et Performance des applications sont interdépendantes et seront activées ou désactivées conjointement.";
+
+// MARK: Network Priority Screen
+"network_traffic_priority_screen_title" = "Hiérarchisation des applications";
+"network_traffic_priority_screen_done_button_title" = "Effectué";
+"network_traffic_priority_screen_header_info_text" = "Hiérarchisez une catégorie d'applications pour toute la maison à partir d'un ensemble de modèles prédéfinis.";
+"network_traffic_priority_screen_templates_header_section_title" = "Choisissez la catégorie d'applications à laquelle vous souhaitez donner la priorité";
+
+// MARK: Network Priority Enablement Card
+"network_traffic_priority_enablement_card_header_title" = "Contrôle des applications";
+"network_traffic_priority_enablement_card_disabled_header_text" = "Désactivé";
+"network_traffic_priority_enablement_card_enabled_header_text" = "Activé";
+"network_traffic_priority_enablement_card_error_header_text" = "Activation impossible pour le moment. Veuillez réessayer.";
+"network_traffic_priority_enablement_card_loading_header_text" = "Activation…";
+
+// MARK: Network Priority Template Card
+"network_traffic_priority_template_card_default_title" = "Par défaut";
+"network_traffic_priority_template_card_default_description" = "HomePass gérera votre trafic de manière active pour aider tous vos appareils à bénéficier des meilleures performances possibles en fonction de leur type.";
+"network_traffic_priority_template_card_conferencing_title" = "Conférences";
+"network_traffic_priority_template_card_video_conferencing_description" = "Ce modèle définit la plus haute priorité pour les applications professionnelles générales, telles que FaceTime, Zoom, Teams, Google Meet, etc.";
+"network_traffic_priority_template_card_gaming_title" = "Jeux";
+"network_traffic_priority_template_card_gaming_description" = "En sélectionnant ce modèle, les applications de jeux (COD, Roblox, etc.) seront prioritaires aux autres.";
+"network_traffic_priority_template_card_streaming_title" = "Streaming";
+"network_traffic_priority_template_card_streaming_description" = "Activez cette fonctionnalité pour visionner des films sans pixels, en donnant la priorité aux applications de streaming vidéo (Netflix, Prime, Disney+, etc.) par rapport au reste du trafic dans la maison.";
+"network_traffic_priority_template_card_performance_header_title" = "Performance actuelle";
+"network_traffic_priority_template_card_performance_details_text" = "%@, %@";
+
+// MARK: Category performance Pill
+"network_traffic_category_performance_pill_title_excellent" = "Excellente";
+"network_traffic_category_performance_pill_title_fair" = "Acceptable";
+"network_traffic_category_performance_pill_title_poor" = "Très faible";
+"network_traffic_category_performance_pill_title_no_data" = "Aucune donnée";
+
+// MARK: Network Awareness enabled mini banner
+"network_awareness_enable_success_mini_banner_title" = "Fonctionnalités activées";
